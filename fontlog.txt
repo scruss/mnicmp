@@ -1,0 +1,3 @@
+2017-02-02 - Stewart C. Russell (scruss.com)
+  - initial release
+  
